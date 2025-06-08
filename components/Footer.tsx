@@ -187,7 +187,7 @@ const Footer = () => {
             </li>
 
             <li>
-                <a href="https://wa.me/8189821029?text=Hi%20there!%20I'm%20interested%20in%20joining%20DAP%20Fitness%20Studio%20" 
+                <a href="https://wa.me/8667701001?text=Hi%20there!%20I'm%20interested%20to%20know%20more%20about%20DatteTech%20" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="fixed bottom-4 right-5 z-50 bg-green-500 text-white rounded-full p-2 hover:bg-green-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
