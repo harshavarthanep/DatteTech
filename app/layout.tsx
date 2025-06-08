@@ -19,7 +19,7 @@ const roboto = Roboto({
 
 export const metadata: Metadata = {
   title: "DatteTech",
-  description: "Believe in the Brand Within",
+  description: "Believe in the Brand Within!",
   icons: {
     icon: "/favicon.ico",
   },
