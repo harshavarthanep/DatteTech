@@ -24,7 +24,7 @@ const HeroSlider = () => {
                   viewport={{ once: false, amount: 0.2 }}
                   className="h1 text-center lg:text-left mb-2"
                 >
-                  <span>WELCOME TO DATTETECH</span>
+                  <span>Welcome To DatteTech</span>
                 </motion.h1>
 
                 <motion.div
@@ -38,7 +38,7 @@ const HeroSlider = () => {
                     buttonStyles="w-[196px] h-[62px] bg-accent"
                   /> */}
 
-                  <TextGenerateEffect words={"Believe in the Brand Within!"} />
+                  <TextGenerateEffect words={"Believe In The Brand Within!"} />
                 </motion.div>
               </div>
             </div>
