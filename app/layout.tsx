@@ -18,8 +18,8 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "DAP fitness studio",
-  description: "SCREW IT LET,S DO IT",
+  title: "DatteTech",
+  description: "Believe in the Brand Within",
   icons: {
     icon: "/favicon.ico",
   },
