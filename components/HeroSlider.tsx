@@ -24,7 +24,7 @@ const HeroSlider = () => {
                   viewport={{ once: false, amount: 0.2 }}
                   className="h1 text-center lg:text-left mb-2"
                 >
-                  <span>Welcome To DatteTech</span>
+                  <span>DatteTech Welcomes You!</span>
                 </motion.h1>
 
                 <motion.div
