@@ -9,6 +9,7 @@ import {
   FaMapMarkerAlt,
   FaPhoneAlt,
   FaYoutube,
+  FaLinkedIn,
 FaWhatsapp,
 } from "react-icons/fa";
 import CustomButton from "./CustomButton";
@@ -150,10 +151,11 @@ const Footer = () => {
             
             <li>
               <Link
-                href=""
+                href="https://www.linkedin.com/in/vidhya-v-658b171b9"
                 className="text-white hover:text-accent transition-all"
               >
-                <FaFacebook />
+                <FaLinkedIn
+                  />
               </Link>
             </li>
             
@@ -176,10 +178,10 @@ const Footer = () => {
             
             <li>
               <Link
-                href=""
+                href="https://www.linkedin.com/in/harsha-varthan-ep"
                 className="text-white hover:text-accent transition-all"
               >
-                <FaYoutube />
+                <FaLinkedIn />
               </Link>
             </li>
 
