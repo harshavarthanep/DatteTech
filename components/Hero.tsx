@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="h-[80vh] lg:h-[912px] bg-banner3 bg-cover bg-center bg-no-repeat"
+      className="h-[80vh] lg:h-[912px] bg-banner4 bg-cover bg-center bg-no-repeat"
     >
       <div className="container mx-auto h-full">
         {/* slider */}
