@@ -95,7 +95,7 @@ const Footer = () => {
           </div>
 
           {/* newsletter */}
-          <div>
+{/*           <div>
             <h4 className="h4 text-accent mb-4 text-lg md:text-xl">
               Newsletter
             </h4>
@@ -116,7 +116,7 @@ const Footer = () => {
                 />
               </form>
             </div>
-          </div>
+          </div> */}
 
           {/* location map */}
           <div>
