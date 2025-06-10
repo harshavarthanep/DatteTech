@@ -154,7 +154,7 @@ const Footer = () => {
                 href="https://www.linkedin.com/in/vidhya-v-658b171b9"
                 className="text-white hover:text-accent transition-all"
               >
-                <FaLinkedIn
+                <FaLinkedin
                   />
               </Link>
             </li>
@@ -181,7 +181,7 @@ const Footer = () => {
                 href="https://www.linkedin.com/in/harsha-varthan-ep"
                 className="text-white hover:text-accent transition-all"
               >
-                <FaLinkedIn />
+                <FaLinkedin />
               </Link>
             </li>
 
