@@ -123,7 +123,7 @@ const Footer = () => {
               Location Map
             </h4>
             <div className="relative w-full max-w-xs md:max-w-md lg:max-w-lg h-[200px] md:h-[300px]">
-              <a href="https://maps.app.goo.gl/6dDcpfzJEMmspv2X8">
+              <a href="https://maps.app.goo.gl/TXipo1rQHgBSDcpr6">
               <Image
                 src="/assets/img/contact/map.png"
                 alt="Location map"
