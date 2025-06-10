@@ -158,7 +158,7 @@ const Footer = () => {
             </li>
             
             <li>
-                <a href=""
+                <a href="https://www.instagram.com/datte_tech/"
                   className="text-white hover:text-accent transition-all"
                   >
                 <FaInstagram />
