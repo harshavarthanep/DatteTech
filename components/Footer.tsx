@@ -55,7 +55,7 @@ const Footer = () => {
           <div className="flex flex-col gap-4">
             <Link href="">
               <Image
-                src="/assets/img/DAP_LOGO.png"
+                src="/assets/img/DatteTech_LOGO.png"
                 width={100}
                 height={100}
                 alt="DAP Logo"
