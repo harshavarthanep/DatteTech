@@ -9,7 +9,7 @@ import {
   FaMapMarkerAlt,
   FaPhoneAlt,
   FaYoutube,
-  FaLinkedIn,
+  FaLinkedin,
 FaWhatsapp,
 } from "react-icons/fa";
 import CustomButton from "./CustomButton";
