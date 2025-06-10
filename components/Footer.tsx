@@ -141,7 +141,7 @@ const Footer = () => {
       <div className="text-white border-t border-white/20 py-6 md:py-12">
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-4 md:px-8">
           <span className="text-xs md:text-sm text-gray-400">
-            &copy; {new Date().getFullYear()} DAP Fitness. All rights reserved.
+            &copy; {new Date().getFullYear()} DatteTech. All rights reserved.
             <a href="https://sites.google.com/view/h24creationz-business-card/home" target="_blank" className="text-gray-200 hover:text-accent transition-all">
              &#9889;H24 Creationz
             </a>
