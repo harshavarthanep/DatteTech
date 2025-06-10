@@ -38,7 +38,7 @@ const Header = () => {
         {/* logo */}
         <Link href="">
           <Image
-            src={"/assets/img/DatteTech_LOGO.png"}
+            src={"/assets/img/DatteTech_Logo.png"}
             width={100}
             height={100}
             alt=""
