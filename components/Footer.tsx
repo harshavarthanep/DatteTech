@@ -37,10 +37,7 @@ import CustomButton from "./CustomButton";
 
 
 const addressLines = [
-  "No 9, 2nd floor Rajivi Ghandhi Salai ",
-  "(Next to Accenture Company) ",
-  "OMR, sholinganallur ",
-  "Chennai 600119",
+  "Redhills, Chennai, India",
 ];
 const addressElements = addressLines.map((line, index) => (
   <span key={index}>{line}<br/></span>
@@ -58,11 +55,11 @@ const Footer = () => {
                 src="/assets/img/DatteTech_Logo.png"
                 width={100}
                 height={100}
-                alt="DAP Logo"
+                alt="DatteTech Logo"
               />
             </Link>
             <p className="max-w-sm text-sm md:text-base">
-              Elevate your fitness journey. Join our supportive community and achieve your goals!
+              Dattetech helps you forge your brand's destiny, build your digital Hidden Village, and master your entrepreneurial chakra for Hokage-level success!
             </p>
             <ul className="flex flex-col gap-4 text-sm md:text-base">
               <li className="flex items-start gap-2">
@@ -77,20 +74,20 @@ const Footer = () => {
                 <span className="icon-container">
                 <FaEnvelope className="text-lg md:text-xl text-accent" />
                 </span>
-                <span>dapfitnessstudio@gmail.com</span>
+                <span>dattetech@gmail.com</span>
               </li>
               <li className="flex items-center gap-2">
                 <span className="icon-container">
                 <FaPhoneAlt className="text-lg md:text-xl text-accent" />
                 </span>
-                <span>+91 8189821029</span>
+                <span>+91 8667701001</span>
               </li>
               <li className="flex items-center gap-2">
                   <span className="icon-container">
                   <FaInstagram className="text-lg md:text-xl text-accent" />
                   </span>
-                  <a href="https://www.instagram.com/dap_fitness_studio/">
-                  <span>@dap_fitness_studio</span>
+                  <a href="https://www.instagram.com/datte_tech/">
+                  <span>@datte_tech</span>
                   </a>
               </li>
             </ul>
@@ -161,7 +158,7 @@ const Footer = () => {
             </li>
             
             <li>
-                <a href="https://www.instagram.com/dap_fitness_studio/"
+                <a href=""
                   className="text-white hover:text-accent transition-all"
                   >
                 <FaInstagram />
