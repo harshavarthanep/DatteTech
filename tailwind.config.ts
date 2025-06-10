@@ -23,6 +23,8 @@ const config: Config = {
     },
     backgroundImage: {
       hero: "url(/assets/img/hero/hero.png)",
+      banner1: "url(/assets/img/hero/banner1.png)",
+      banner2: "url(/assets/img/hero/banner2.png)",
       goku: "url(/assets/img/hero/goku.svg)",
     },
     extend: {
