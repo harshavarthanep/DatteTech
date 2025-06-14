@@ -195,6 +195,15 @@ const Footer = () => {
                   <FaWhatsapp style={{ width: '27px', height: '27px' }}/>
                 </a>
             </li>
+
+            <li>
+                <a href="tel:+4733378901" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="fixed bottom-8 right-10 z-100 bg-blue-500 text-white rounded-full p-2 hover:bg-blue-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
+                  <FaPhoneAlt style={{ width: '27px', height: '27px' }}/>
+                </a>
+            </li>
             
           </ul>
         </div>
