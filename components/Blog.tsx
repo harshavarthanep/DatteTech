@@ -127,10 +127,10 @@ const Blog = () => {
           whileInView={"show"}
           viewport={{ once: false, amount: 0.2 }}
         >
-          <a href="https://maps.app.goo.gl/6dDcpfzJEMmspv2X8">
+          <a href="https://wa.me/8667701001?text=Hi%20there!%20I'm%20interested%20to%20know%20more%20about%20DatteTech%20">
           <CustomButton
             buttonStyles="block w-[196px] h-[62px] mx-auto"
-            text="Visit Now"
+            text="DM Now"
           />
           </a>
         </motion.div>
