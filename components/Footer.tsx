@@ -63,14 +63,14 @@ const Footer = () => {
               Dattetech helps you forge your brand's destiny, build your digital Hidden Village, and master your entrepreneurial chakra for Hokage-level success!
             </p>
             <ul className="flex flex-col gap-4 text-sm md:text-base">
-{/*               <li className="flex items-start gap-2">
+              <li className="flex items-start gap-2">
                 <span className="icon-container">
                 <FaMapMarkerAlt className="text-lg md:text-xl text-accent" />
                 </span>
                 <div>
                   {addressElements}
                 </div>
-              </li> */}
+              </li>
               <li className="flex items-center gap-2">
                 <span className="icon-container">
                 <FaEnvelope className="text-lg md:text-xl text-accent" />
