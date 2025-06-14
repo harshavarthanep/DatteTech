@@ -24,15 +24,15 @@
   }
 
   h3{
-    @apply text-accent2 text-[32px]
+    @apply text-[32px]
   }
 
   h4{
-    @apply text-accent2 text-[26px]
+    @apply text-[26px]
   }
 
   h5{
-    @apply text-accent2 text-[22px]
+    @apply text-[22px]
   }
 
   h6{
