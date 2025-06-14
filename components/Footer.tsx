@@ -115,6 +115,7 @@ const Footer = () => {
                   buttonStyles="h-[40px] md:h-[50px] px-4 md:px-8 rounded-r-md"
                   text="Send"
                 />
+                </a>  
               </form>
             </div>
           </div>
