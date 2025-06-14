@@ -7,7 +7,7 @@
     @apply font-roboto;
   }
 
-  h1, h2, h3, h4, h5, h6{
+  h1, h2, h3, h4, h5, h6, h7{
     @apply font-oswald font-bold uppercase
   }
   
@@ -29,6 +29,10 @@
 
   h5{
     @apply text-[22px]
+  }
+
+  h7{
+    @apply text-accent text-7xl lg:text-[128px] tracking-[-3px]
   }
 
 }
