@@ -15,12 +15,8 @@
     @apply text-white text-7xl lg:text-[128px] tracking-[-3px]
   }
 
-/*   h2{
-    @apply text-[36px]
-  } */
-
   h2{
-    @apply text-accent2 text-[36px]
+    @apply text-[36px]
   }
 
   h3{
