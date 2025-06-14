@@ -22,9 +22,9 @@ const HeroSlider = () => {
                   initial="hidden"
                   whileInView={"show"}
                   viewport={{ once: false, amount: 0.2 }}
-                  className="h6 text-center lg:text-left mb-2"
+                  className="h1 text-center lg:text-left mb-2"
                 >
-                  <span>Datte Tech Welcomes You!</span>
+                  <span>DatteTech Welcomes You!</span>
                 </motion.h6>
 
                 <motion.div
