@@ -91,21 +91,6 @@ const Footer = () => {
                   <span>@datte_tech</span>
                   </a>
               </li>
-              <li className="flex items-center gap-2">
-                  <span className="icon-container">
-                  <FaLinkedin className="text-lg md:text-xl text-accent" />
-                  </span>
-                  <a href="https://www.linkedin.com/in/vidhya-v-658b171b9">
-                  <span>Vihya's LinkedIn</span>
-                  </a>
-              </li>
-              <li className="flex items-center gap-2">
-                  <span className="icon-container">
-                  <FaLinkedin className="text-lg md:text-xl text-accent" />
-                  </span>
-                  <a href="https://www.linkedin.com/in/harsha-varthan-ep">
-                  <span>Harsha's LinkedIn</span>
-                  </a>
               </li>
             </ul>
           </div>
