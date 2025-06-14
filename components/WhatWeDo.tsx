@@ -18,25 +18,25 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Crafting a powerful identity that resonates, making your brand instantly recognizable and memorable. We help you define your unique voice and visual presence.",
+      "Crafting a powerful identity that resonates, making your brand instantly recognizable and memorable. We help you define your unique voice and visual presence so you stand out in the marketplace.",
     title: "Branding",
   },
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Creating stunning visuals that capture attention and communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu.",
+      "Creating stunning visuals that capture attention and communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu, ensuring a strong impression.",
     title: "Graphic Design",
   },
   {
     img: "/assets/img/testimonial/gym3.jpg",
     content:
-      "Building robust, intuitive, and high-performing websites that serve as your digital stronghold. We create online experiences that engage and convert.",
+      "Building robust, intuitive, and high-performing websites that serve as your digital stronghold. We create online experiences that engage and convert visitors into loyal customers.",
     title: "Web Development",
   },
   {
     img: "/assets/img/testimonial/gym2.jpg",
     content:
-      "Providing strategic guidance and practical tools to optimize your operations, streamline processes, and unlock new avenues for growth.",
+      "Providing strategic guidance and practical tools to optimize your operations, streamline processes, and unlock new avenues for growth, ensuring peak efficiency.",
     title: "Business Solutions",
   },
   {
@@ -54,8 +54,20 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym3.jpg",
     content:
-      "Offering personalized guidance and insights from industry veterans, empowering you to navigate complex business landscapes with confidence.",
+      "Offering personalized guidance and insights from industry veterans, empowering you to navigate complex business landscapes with confidence and clarity.",
     title: "Professional Mentorship",
+  },
+  {
+    img: "/assets/img/testimonial/gym2.jpg",
+    content:
+      "Delivering inspiring and actionable presentations that ignite motivation and equip your team with the mindset for success and sustained achievement.",
+    title: "Empowerment Talks",
+  },
+  {
+    img: "/assets/img/testimonial/gym3.jpg",
+    content:
+      "Providing individualized support to help leaders and teams unlock personal potential, overcome obstacles, and achieve work-life balance for peak performance.",
+    title: "Life Coach",
   },
   ];
 
