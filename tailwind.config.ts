@@ -38,7 +38,7 @@ const config: Config = {
           200: "#151515",
           300: "#111",
         },
-        accent: "#deb01e",
+        accent: "#e56e38",
       },
     },
   },
