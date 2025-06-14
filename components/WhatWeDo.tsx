@@ -70,7 +70,7 @@ const WhatWeDo = () => {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: false, amount: 0.2 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-center"
+            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-center text-accent"
           >
             WHAT WE DO
           </motion.h2>
@@ -81,11 +81,8 @@ const WhatWeDo = () => {
             viewport={{ once: false, amount: 0.2 }}
             className="max-w-[900px] mx-auto text-center text-lg"
           >
-            At Dap Fitness, we&apos;re committed to helping you achieve your
-            fitness goals through a variety of tailored services designed to
-            meet your unique needs. Whether you’re a beginner or a seasoned athlete, 
-            we have something for everyone. Explore our offerings below.
-            
+            We're a team of skilled "shinobi" dedicated to bringing your vision to life and accelerating your growth. 
+            Our comprehensive suite of services is designed to tackle every challenge, from establishing your identity to nurturing your team.
           </motion.p>
       </div>
 
