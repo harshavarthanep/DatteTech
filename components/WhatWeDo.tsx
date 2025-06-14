@@ -82,7 +82,7 @@ const WhatWeDo = () => {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: false, amount: 0.2 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-center"
+            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-center text-accent2"
           >
             WHAT WE DO
           </motion.h2>
