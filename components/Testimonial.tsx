@@ -1,5 +1,17 @@
 "use client";
 
+import React from "react";
+import { fadeIn } from "@/lib/variants";
+import { motion } from "framer-motion";
+import { Tabs } from "./ui/tabs";
+import { CardSpotlight } from "./ui/card-spotlight";
+import "swiper/css";
+import "swiper/css/pagination";
+import { Swiper, SwiperSlide } from "swiper/react";
+import Image from "next/image";
+import { Pagination } from "swiper/modules";
+import SwiperNavButton from "./SwiperNavButton";
+
 import "swiper/css";
 import "swiper/css/pagination";
 
@@ -72,7 +84,7 @@ import { Pagination } from "swiper/modules";
 
 const Testimonial = () => {
   return (
-    <section className="py-12 xl:py-28 h-full" id="testimonial">
+    <section className="py-12 xl:py-28 h-full" id="testimonial bg-accent3">
       <div className="container mx-auto flex flex-col gap">
         <motion.h2
           variants={fadeIn("up", 0.4)}
