@@ -24,7 +24,7 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Creating stunning visuals that capture attention and communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu for a strong impression.",
+      "Creating stunning visuals that capture attention & communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu for strong impressions.",
     title: "Graphic Design",
   },
   {
@@ -93,7 +93,7 @@ const WhatWeDo = () => {
             viewport={{ once: false, amount: 0.2 }}
             className="max-w-[900px] mx-auto text-center text-lg"
           >
-            We're a team of skilled "shinobi" dedicated to bringing your vision to life and accelerating your growth. 
+            We're a team of skilled shinobi dedicated to bringing your vision to life and accelerating your growth. 
             Our comprehensive suite of services is designed to tackle every challenge, from establishing your identity to nurturing your team.
           </motion.p>
       </div>
