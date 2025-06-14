@@ -197,7 +197,7 @@ const Footer = () => {
             </li>
 
             <li>
-                <a href="tel:8667701001"
+                <a href="tel:+918667701001"
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="fixed bottom-20 right-5 z-50 bg-blue-500 text-white rounded-full p-2 hover:bg-blue-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
