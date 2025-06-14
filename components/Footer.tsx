@@ -99,7 +99,7 @@ const Footer = () => {
             <h4 className="h4 text-accent mb-4 text-lg md:text-xl">
               Newsletter
             </h4>
-            <div className="flex flex-col gap-4 text-accent3">
+            <div className="flex flex-col gap-4">
               <p className="text-sm md:text-base">
                 Join our community & get exclusive fitness tips and 
                 special offers delivered right to your inbox.
