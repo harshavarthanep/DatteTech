@@ -8,7 +8,7 @@ const WhyDap = () => {
   return (
     <section
       id="whyDap"
-      className="relative lg:py-24 py-12 overflow-hidden"
+      className="relative lg:py-24 py-12 overflow-hidden bg-accent3"
     >
       {/* Background Accent */}
       <div className="absolute inset-0 bg-noise opacity-10"></div>
@@ -45,7 +45,7 @@ const WhyDap = () => {
         <div className="w-full h-[1px] bg-gray-600 opacity-50 my-12 lg:my-16"></div>
 
         {/* VALUES Section */}
-        <div className="flex flex-col items-center gap-6">
+        <div className="flex flex-col items-center gap-6 bg-accent3">
           <motion.h2
             variants={fadeIn("up", 0.8)}
             initial="hidden"
