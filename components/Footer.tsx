@@ -101,21 +101,20 @@ const Footer = () => {
             </h4>
             <div className="flex flex-col gap-4">
               <p className="text-sm md:text-base">
-                Join our community & get exclusive fitness tips and 
-                special offers delivered right to your inbox.
+                Get the latest updates and exclusive offers from Dattetech sent directly to your WhatsApp! 
+                Join our community for valuable insights and special content.
               </p>
               <form className="flex items-center">
                 <input
                   type="text"
-                  placeholder="You will be a Hokage!"
+                  placeholder="You will be the next Hokage!"
                   className="h-[40px] md:h-[50px] outline-none px-4 text-primary-300 w-full max-w-[200px] md:max-w-[300px] rounded-l-md"
                 />
-                <a href="https://wa.me/8667701001?text=Hi%20there!%20I'm%20interested%20to%20know%20more%20about%20DatteTech%20">
+                <a href="https://wa.me/8667701001?text=Hi%20there!%20I'm%20interested%20to%20know%20more%20about%20DatteTech%20"/>
                 <CustomButton
                   buttonStyles="h-[40px] md:h-[50px] px-4 md:px-8 rounded-r-md"
                   text="Send"
                 />
-                </a>  
               </form>
             </div>
           </div>
