@@ -77,8 +77,8 @@ import { Pagination } from "swiper/modules";
 
 const Testimonial = () => {
   return (
-    <section className="py-12 xl:py-28 h-full" id="testimonial">
-      <div className="container mx-auto flex flex-col gap bg-accent3">
+    <section className="py-12 xl:py-28 h-full bg-accent3" id="testimonial">
+      <div className="container mx-auto flex flex-col gap">
         <motion.h2
           variants={fadeIn("up", 0.4)}
           initial="hidden"
