@@ -17,7 +17,7 @@ const HeroSlider = () => {
           <SwiperSlide key={ele}>
             <div className="h-full flex justify-end pt-48">
               <div className="flex flex-col items-center lg:items-start lg:max-w-[600px]">
-                <motion.h1
+                <motion.h7
                   variants={fadeIn("up", 0.4)}
                   initial="hidden"
                   whileInView={"show"}
@@ -25,7 +25,7 @@ const HeroSlider = () => {
                   className="h1 text-center lg:text-left mb-2"
                 >
                   <span>DatteTech Welcomes You!</span>
-                </motion.h1>
+                </motion.h7>
 
                 <motion.div
                   variants={fadeIn("up", 0.8)}
