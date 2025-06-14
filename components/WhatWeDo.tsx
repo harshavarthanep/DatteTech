@@ -75,7 +75,7 @@ const WhatWeDo = () => {
   return (
     
 <section id="whatWeDo" className="py-12">
-    <div className="container mx-auto flex flex-col items-center gap-6 mb-4">
+    <div className="container mx-auto flex flex-col items-center gap-6 mb-4 bg-accent3">
           
         <motion.h2
             variants={fadeIn("up", 0.4)}
