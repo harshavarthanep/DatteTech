@@ -200,7 +200,7 @@ const Footer = () => {
                 <a href="tel:+4733378901" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="fixed -bottom-4 -right-5 z-50 bg-blue-500 text-white rounded-full p-2 hover:bg-blue-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
+                  className="fixed bottom-16 right-5 z-50 bg-blue-500 text-white rounded-full p-2 hover:bg-blue-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
                   <FaPhoneAlt style={{ width: '27px', height: '27px' }}/>
                 </a>
             </li>
