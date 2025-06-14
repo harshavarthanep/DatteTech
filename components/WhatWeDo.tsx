@@ -18,44 +18,56 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Personalized fitness and nutrition coaching delivered right to your door. Our expert trainers will create a customized plan to help you reach your health goals.",
-    title: "F&N Coaching Online",
+      "Crafting a powerful identity that resonates, making your brand instantly recognizable and memorable. We help you define your unique voice and visual presence.",
+    title: "Branding",
   },
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Experience the ultimate in personalized training. Our high-ticket personal training programs offer exclusive access to top trainers and cutting-edge techniques.",
-    title: "Hi Ticket PT",
+      "Creating stunning visuals that capture attention and communicate your message with impact. From logos to marketing materials, our designs are your visual "jutsu.",
+    title: "Graphic Design",
   },
   {
     img: "/assets/img/testimonial/gym3.jpg",
     content:
-      "Build a strong, muscular physique naturally. Learn about the principles of natural bodybuilding, including proper nutrition, training, and supplementation.",
-    title: "Natural Body Building",
+      "Building robust, intuitive, and high-performing websites that serve as your digital stronghold. We create online experiences that engage and convert.",
+    title: "Web Development",
   },
   {
     img: "/assets/img/testimonial/gym2.jpg",
     content:
-      "Get the best of both worlds with our semi-private training. Train with a small group of like-minded individuals while receiving personalized coaching from a certified trainer.",
-    title: "Semi Personal Training",
+      "Providing strategic guidance and practical tools to optimize your operations, streamline processes, and unlock new avenues for growth.",
+    title: "Business Solutions",
   },
   {
     img: "/assets/img/testimonial/gym3.jpg",
     content:
-      "Join our virtual fitness community and workout from the comfort of your own home. Our live and on-demand group classes offer a variety of workouts to suit all fitness levels.",
-    title: "Virtual Group Training",
+      "Cultivating a thriving team environment and nurturing individual potential. We help you attract, develop, and retain top talent, fostering a strong "Will of Fire" within your organization.",
+    title: "Talent Growth Partner (HR)",
   },
   {
     img: "/assets/img/testimonial/gym2.jpg",
     content:
-      "Discover the power of food with our expert nutritionists. We'll help you create a sustainable eating plan that fits your lifestyle and supports your well-being.",
-    title: "Nutrition Coaching",
+      "Guiding your enterprise to new heights through expert analysis, strategic planning, and implementation support. We identify opportunities and overcome challenges for sustained success.",
+    title: "Business Elevation Experts",
   },
   {
     img: "/assets/img/testimonial/gym3.jpg",
     content:
-      "Discover the healing power of movement. Our programs are designed to help you recover from injuries, manage chronic pain, and improve your quality of life.",
-    title: "Healing Process",
+      "Offering personalized guidance and insights from industry veterans, empowering you to navigate complex business landscapes with confidence.",
+    title: "Professional Mentorship",
+  },
+  {
+    img: "/assets/img/testimonial/gym3.jpg",
+    content:
+      "Delivering inspiring and actionable presentations that ignite motivation and equip your team with the mindset for success.",
+    title: "Empowerment Talks",
+  },
+  {
+    img: "/assets/img/testimonial/gym3.jpg",
+    content:
+      "Providing individualized support to help leaders and teams unlock personal potential, overcome obstacles, and achieve work-life balance for peak performance.",
+    title: "Life Coach",
   },
   ];
 
@@ -70,7 +82,7 @@ const WhatWeDo = () => {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: false, amount: 0.2 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-center text-accent"
+            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-center text-accent2"
           >
             WHAT WE DO
           </motion.h2>
