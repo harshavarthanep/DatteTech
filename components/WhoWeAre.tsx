@@ -20,7 +20,7 @@ const WhoWeAre = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.2 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-accent3"
+            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-accent"
           >
             WHO WE ARE
           </motion.h2>
@@ -29,16 +29,11 @@ const WhoWeAre = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.2 }}
-            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-white text-center lg:text-left leading-relaxed"
+            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-white text-center lg:text-left leading-relaxed text-accent3"
           >
-            Founded by passionate friends, Dap Fitness is more than just a
-            gym—it&apos;s a community built on friendship, dedication, and a
-            shared love for fitness. With over seven years of combined
-            experience in the fitness industry, our founders recognized a need
-            for a unique fitness experience in Chennai. Their vision was to
-            create a space where individuals could not only achieve their
-            personal fitness goals but also foster a supportive and motivating
-            environment.
+            We are a collective of passionate innovators, strategists, and problem-solvers, united by a shared vision: to see your business thrive. 
+            Each member of the DatteTech team is an expert in their field, dedicated to understanding your unique needs and delivering exceptional results. 
+            We operate with the agility and precision of a ninja squad, always ready to adapt and overcome.
           </motion.p>
         </div>
 
@@ -61,14 +56,11 @@ const WhoWeAre = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.2 }}
-            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-white text-center lg:text-left leading-relaxed"
+            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-white text-center lg:text-left leading-relaxed text-accent3"
           >
-            What started as a shared passion for health and fitness has evolved
-            into a thriving gym that stands out in Chennai. We believe in the
-            power of collaboration and community. Dap Fitness is designed to
-            empower individuals, regardless of their starting point, to pursue
-            their fitness aspirations. Our founders’ commitment to excellence
-            ensures that every member feels motivated and inspired.
+            DatteTech began with a simple belief: that every business, regardless of size, deserves access to top-tier expertise to achieve its full potential. 
+            We started as a small team with a big dream, much like a young ninja embarking on their path. Through dedication, continuous learning, and a relentless commitment to our clients, we've grown, honing our skills and expanding our capabilities. 
+            Our journey is one of constant evolution, driven by the success stories of the businesses we serve.
           </motion.p>
         </div>
       </div>
