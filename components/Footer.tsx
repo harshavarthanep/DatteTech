@@ -99,7 +99,7 @@ const Footer = () => {
             <h4 className="h4 text-accent mb-4 text-lg md:text-xl">
               Newsletter
             </h4>
-            <div className="flex flex-col gap-4">
+            <div className="flex flex-col gap-4 text-accent3">
               <p className="text-sm md:text-base">
                 Join our community & get exclusive fitness tips and 
                 special offers delivered right to your inbox.
@@ -108,7 +108,7 @@ const Footer = () => {
                 <input
                   type="text"
                   placeholder="You will be a Hokage!"
-                  className="h-[40px] md:h-[50px] outline-none px-4 text-primary-300 w-full max-w-[200px] md:max-w-[300px] rounded-l-md text-accent3"
+                  className="h-[40px] md:h-[50px] outline-none px-4 text-primary-300 w-full max-w-[200px] md:max-w-[300px] rounded-l-md"
                 />
                 <CustomButton
                   buttonStyles="h-[40px] md:h-[50px] px-4 md:px-8 rounded-r-md"
