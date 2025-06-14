@@ -18,13 +18,13 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Crafting a powerful identity that resonates, making your brand instantly recognizable & memorable. We help you define your unique voice & visual presence so you stand out in the marketplace.",
+      "Crafting a powerful identity that resonates, making your brand instantly recognizable and memorable. We help you define your unique voice and visual presence so you stand out in the market.",
     title: "Branding",
   },
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Creating stunning visuals that capture attention & communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu, ensuring a strong impression.",
+      "Creating stunning visuals that capture attention and communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu, ensuring a strong impression.",
     title: "Graphic Design",
   },
   {
@@ -48,7 +48,7 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym2.jpg",
     content:
-      "Guiding your enterprise to new heights through expert analysis, strategic planning, & implementation support. We identify opportunities and overcome challenges for sustained success.",
+      "Guiding your enterprise to new heights through expert analysis, strategic planning, and implementation support. We identify opportunities and overcome challenges for lasting success.",
     title: "Business Elevation Experts",
   },
   {
