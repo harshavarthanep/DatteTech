@@ -90,7 +90,6 @@ const Footer = () => {
                   <a href="https://www.instagram.com/datte_tech/">
                   <span>@datte_tech</span>
                   </a>
-              </li>
               </li>
             </ul>
           </div>
