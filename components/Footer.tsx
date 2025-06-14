@@ -107,8 +107,8 @@ const Footer = () => {
               <form className="flex items-center">
                 <input
                   type="text"
-                  placeholder="Your email address"
-                  className="h-[40px] md:h-[50px] outline-none px-4 text-primary-300 w-full max-w-[200px] md:max-w-[300px] rounded-l-md"
+                  placeholder="You will be a Hokage!"
+                  className="h-[40px] md:h-[50px] outline-none px-4 text-primary-300 w-full max-w-[200px] md:max-w-[300px] rounded-l-md text-accent3"
                 />
                 <CustomButton
                   buttonStyles="h-[40px] md:h-[50px] px-4 md:px-8 rounded-r-md"
