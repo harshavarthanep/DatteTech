@@ -63,7 +63,6 @@ const testimonialData = [
 ];
 
 import React from "react";
-import { motion } from "framer-motion";
 import { Tabs } from "./ui/tabs";
 import { CardSpotlight } from "./ui/card-spotlight";
 import SwiperNavButton from "./SwiperNavButton";
