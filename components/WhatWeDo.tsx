@@ -106,6 +106,7 @@ const WhatWeDo = () => {
           initial="hidden"
           whileInView={"show"}
           viewport={{ once: false, amount: 0.2 }}
+          className="text-accent2"
         >
           <Swiper
             slidesPerView={1}
