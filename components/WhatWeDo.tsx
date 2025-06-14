@@ -42,7 +42,7 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym3.jpg",
     content:
-      "Cultivating a thriving team environment and nurturing individual potential. We help you attract, develop, and retain top talent, fostering a strong "Will of Fire" within your organization.",
+      "Cultivating a thriving team environment and nurturing individual potential. We help you attract, develop, and retain top talent, fostering a strong Will of Fire within your organization.",
     title: "Talent Growth Partner (HR)",
   },
   {
