@@ -21,7 +21,7 @@ const WhyDap = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.2 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-black"
+            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-accent2"
           >
             WHY DAP
           </motion.h2>
@@ -30,7 +30,7 @@ const WhyDap = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.2 }}
-            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-center lg:text-left leading-relaxed"
+            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-center lg:text-left leading-relaxed text-accent2"
           >
             At DAP Fitness, we believe in more than just workouts. We foster a vibrant 
             community where you'll find support, motivation, and the drive to succeed. 
@@ -51,7 +51,7 @@ const WhyDap = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.2 }}
-            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-black"
+            className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-accent2"
           >
             VALUES
           </motion.h2>
