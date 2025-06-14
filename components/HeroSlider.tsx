@@ -17,15 +17,15 @@ const HeroSlider = () => {
           <SwiperSlide key={ele}>
             <div className="h-full flex justify-end pt-48">
               <div className="flex flex-col items-center lg:items-start lg:max-w-[600px]">
-                <motion.h1
+                <motion.h6
                   variants={fadeIn("up", 0.4)}
                   initial="hidden"
                   whileInView={"show"}
                   viewport={{ once: false, amount: 0.2 }}
-                  className="h1 text-center lg:text-left mb-2"
+                  className="h6 text-center lg:text-left mb-2"
                 >
                   <span>Datte Tech Welcomes You!</span>
-                </motion.h1>
+                </motion.h6>
 
                 <motion.div
                   variants={fadeIn("up", 0.8)}
