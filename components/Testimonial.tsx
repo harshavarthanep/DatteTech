@@ -1,17 +1,5 @@
 "use client";
 
-import React from "react";
-import { fadeIn } from "@/lib/variants";
-import { motion } from "framer-motion";
-import { Tabs } from "./ui/tabs";
-import { CardSpotlight } from "./ui/card-spotlight";
-import "swiper/css";
-import "swiper/css/pagination";
-import { Swiper, SwiperSlide } from "swiper/react";
-import Image from "next/image";
-import { Pagination } from "swiper/modules";
-import SwiperNavButton from "./SwiperNavButton";
-
 import "swiper/css";
 import "swiper/css/pagination";
 
