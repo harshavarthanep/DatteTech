@@ -104,7 +104,7 @@ const Footer = () => {
                 Get the latest updates and exclusive offers from Dattetech sent directly to your WhatsApp! 
                 Join our community for valuable insights and special content.
               </p>
-              <form className="flex items-center">
+              <div className="flex items-center">
                 <input
                   type="text"
                   placeholder="You will be the next Hokage!"
@@ -116,7 +116,7 @@ const Footer = () => {
                   text="Send"
                 />
                 </a>
-              </form>
+              </div>
             </div>
           </div>
 
