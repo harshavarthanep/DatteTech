@@ -24,7 +24,7 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Creating stunning visuals that capture attention and communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu, ensuring a strong impression.",
+      "Creating stunning visuals that capture attention and communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu for a strong impression.",
     title: "Graphic Design",
   },
   {
