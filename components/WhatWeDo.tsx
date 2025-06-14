@@ -68,7 +68,7 @@ const testimonialData = [
     content:
       "Providing individualized support to help leaders and teams unlock personal potential, overcome obstacles, and achieve work-life balance for peak performance.",
     title: "Life Coach",
-  }
+  },
   ];
 
 const WhatWeDo = () => {
