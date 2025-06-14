@@ -29,7 +29,7 @@ const WhoWeAre = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.2 }}
-            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-white text-center lg:text-left leading-relaxed text-accent3"
+            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-white text-center lg:text-left leading-relaxed"
           >
             We are a collective of passionate innovators, strategists, and problem-solvers, united by a shared vision: to see your business thrive. 
             Each member of the DatteTech team is an expert in their field, dedicated to understanding your unique needs and delivering exceptional results. 
@@ -56,9 +56,9 @@ const WhoWeAre = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.2 }}
-            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-white text-center lg:text-left leading-relaxed text-accent3"
+            className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-white text-center lg:text-left leading-relaxed"
           >
-            DatteTech began with a simple belief: that every business, regardless of size, deserves access to top-tier expertise to achieve its full potential. 
+            DatteTech began with a simple belief that every business, regardless of size, deserves access to top-tier expertise to achieve its full potential. 
             We started as a small team with a big dream, much like a young ninja embarking on their path. Through dedication, continuous learning, and a relentless commitment to our clients, we've grown, honing our skills and expanding our capabilities. 
             Our journey is one of constant evolution, driven by the success stories of the businesses we serve.
           </motion.p>
