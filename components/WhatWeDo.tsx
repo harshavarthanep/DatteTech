@@ -18,7 +18,7 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Crafting a powerful identity that resonates, making your brand instantly recognizable and memorable. We help you define your unique voice and visual presence so you stand out in the market.",
+      "Crafting a powerful identity that resonates, making your brand instantly recognizable and memorable. We help you define your unique voice and visual presence to stand out in the market.",
     title: "Branding",
   },
   {
@@ -48,7 +48,7 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym2.jpg",
     content:
-      "Guiding your enterprise to new heights through expert analysis, strategic planning, and implementation support. We identify opportunities and overcome challenges for lasting success.",
+      "Guiding your enterprise to new heights through expert analysis, strategic planning, and implementation support. We identify opportunities and overcome challenges for success.",
     title: "Business Elevation Experts",
   },
   {
