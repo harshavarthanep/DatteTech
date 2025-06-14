@@ -191,7 +191,7 @@ const Footer = () => {
                 <a href="https://wa.me/8667701001?text=Hi%20there!%20I'm%20interested%20to%20know%20more%20about%20DatteTech%20" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="fixed bottom-4 right-5 z-50 bg-green-500 text-white rounded-full p-2 hover:bg-green-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
+                  className="fixed bottom-4 right-5 z-50 space-x-4 bg-green-500 text-white rounded-full p-2 hover:bg-green-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
                   <FaWhatsapp style={{ width: '27px', height: '27px' }}/>
                 </a>
             </li>
@@ -200,7 +200,7 @@ const Footer = () => {
                 <a href="tel:+4733378901" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="fixed bottom-4 right-5 z-200 bg-blue-500 text-white rounded-full p-2 hover:bg-blue-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
+                  className="fixed bottom-4 right-5 z-50 space-x-4 bg-blue-500 text-white rounded-full p-2 hover:bg-blue-600 transition duration-300 ease-in-out hover:transform hover:scale-110">
                   <FaPhoneAlt style={{ width: '27px', height: '27px' }}/>
                 </a>
             </li>
