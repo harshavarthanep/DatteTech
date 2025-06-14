@@ -57,18 +57,6 @@ const testimonialData = [
       "Offering personalized guidance and insights from industry veterans, empowering you to navigate complex business landscapes with confidence.",
     title: "Professional Mentorship",
   },
-  {
-    img: "/assets/img/testimonial/gym3.jpg",
-    content:
-      "Delivering inspiring and actionable presentations that ignite motivation and equip your team with the mindset for success.",
-    title: "Empowerment Talks",
-  },
-  {
-    img: "/assets/img/testimonial/gym3.jpg",
-    content:
-      "Providing individualized support to help leaders and teams unlock personal potential, overcome obstacles, and achieve work-life balance for peak performance.",
-    title: "Life Coach",
-  },
   ];
 
 const WhatWeDo = () => {
