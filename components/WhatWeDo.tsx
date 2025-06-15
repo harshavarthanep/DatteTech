@@ -24,7 +24,7 @@ const testimonialData = [
   {
     img: "/assets/img/testimonial/gym1.jpg",
     content:
-      "Creating stunning visuals that capture attention & communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu for strong impressions.",
+      "Creating stunning visuals that capture attention and communicate your message with impact. From logos to marketing materials, our designs are your visual jutsu for a strong impression.",
     title: "Graphic Design",
   },
   {
@@ -74,7 +74,7 @@ const testimonialData = [
 const WhatWeDo = () => {
   return (
     
-<section id="WhatWeDo" className="py-12 bg-accent3">
+<section id="whatWeDo" className="py-12 bg-accent3">
     <div className="container mx-auto flex flex-col items-center gap-6 mb-4">
           
         <motion.h2
@@ -93,7 +93,7 @@ const WhatWeDo = () => {
             viewport={{ once: false, amount: 0.2 }}
             className="max-w-[900px] mx-auto text-center text-lg"
           >
-            We're a team of skilled shinobi dedicated to bringing your vision to life and accelerating your growth. 
+            We're a team of skilled "shinobi" dedicated to bringing your vision to life and accelerating your growth. 
             Our comprehensive suite of services is designed to tackle every challenge, from establishing your identity to nurturing your team.
           </motion.p>
       </div>
@@ -143,7 +143,7 @@ const WhatWeDo = () => {
                   <div className="flex flex-col justify-center items-center gap text-center h-full">
                     <div className="flex flex-col justify-center items-center">
                       <p className="text-2xl font-semibold max-w-[380px) mb-8">{person.title}</p>
-                      <span className="text-xl font-bold text-white >
+                      <span className="text-xl font-bold text-white">
                       <CardSpotlight>
                             <p className="relative z-20 mt-2">{person.content}</p>
                       </CardSpotlight>
