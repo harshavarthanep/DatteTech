@@ -17,8 +17,10 @@ const WhyDap = () => {
   return (
     <section
       id="whyDatteTech"
-      className="relative lg:py-24 py-12 overflow-hidden bg-accent3"
+      className="relative  py-12 overflow-hidden bg-accent3"
     >
+{/*             className="relative lg:py-24 py-12 overflow-hidden bg-accent3" */}
+
       {/* Background Accent */}
       <div className="absolute inset-0 bg-noise opacity-10"></div>
 
