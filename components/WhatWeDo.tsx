@@ -74,7 +74,7 @@ const testimonialData = [
 const WhatWeDo = () => {
   return (
     
-<section id="whatWeDo" className="py-12 bg-accent3">
+<section id="WhatWeDo" className="py-12 bg-accent3">
     <div className="container mx-auto flex flex-col items-center gap-6 mb-4">
           
         <motion.h2
