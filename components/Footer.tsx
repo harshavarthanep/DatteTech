@@ -67,21 +67,27 @@ const Footer = () => {
                 <span className="icon-container">
                 <FaMapMarkerAlt className="text-lg md:text-xl text-accent" />
                 </span>
+                <a href="https://maps.app.goo.gl/KCfZghCoEA7yG2X99">
                 <div>
                   {addressElements}
                 </div>
+                </a> 
               </li>
               <li className="flex items-center gap-2">
                 <span className="icon-container">
                 <FaEnvelope className="text-lg md:text-xl text-accent" />
                 </span>
+                <a href="mailto:dattetech@gmail.com">
                 <span>dattetech@gmail.com</span>
+                </a>
               </li>
               <li className="flex items-center gap-2">
                 <span className="icon-container">
                 <FaPhoneAlt className="text-lg md:text-xl text-accent" />
                 </span>
-                <span>+91 8667701001</span>
+                <a href="tel:+918667701001">
+                <span>+91 86677 01001</span>
+                </a>
               </li>
               <li className="flex items-center gap-2">
                   <span className="icon-container">
