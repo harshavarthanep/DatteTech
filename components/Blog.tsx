@@ -60,7 +60,7 @@ const Blog = () => {
           viewport={{ once: false, amount: 0.2 }}
           className="h2 text-center mb-8"
         >
-          DAP Moments
+          DatteTech Moments
         </motion.h2>
 
         <motion.div
