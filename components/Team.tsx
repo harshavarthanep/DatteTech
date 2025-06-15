@@ -7,9 +7,9 @@ import Image from "next/image";
 const trainerData = [
   {
     image: "/assets/img/trainers/david.jpg",
-    name: "Prasanth",
-    role: "Body builder coach",
-    description: "He'll push you to your limits and help you achieve your goals.",
+    name: "Harsha Varthan E P",
+    role: "Founder & CEO",
+    description: "Passionate enterprenur who has experimented his life with lots of tech",
   },
   // {
   //   image: "/assets/img/trainers/matt.jpg",
@@ -33,7 +33,7 @@ const Team = () => {
           viewport={{ once: false, amount: 0.2 }}
           className="text-2xl md:text-4xl font-bold text-center mb-6"
         >
-          Our Trainers
+          Leaders
         </motion.h2>
 
         {/* trainers grid */}
