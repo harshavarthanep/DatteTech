@@ -10,7 +10,7 @@ const trainerData = [
     name: "Harsha Varthan E P",
     role: "Founder & CEO",
     description: 
-      "A true tech polymath and passionate entrepreneur, Harsha has a deep-seated love for transforming ideas into reality. As the force behind H24 Creationz and the author of two organically successful books (500+ copies sold in 7 months), he's built an impressive portfolio: over 6 apps and 2 games on Play Store, 10+ websites, 5+ branding projects, 4+ YouTube channels, 5+ music albums across major platforms, and a self-published podcast. Harsha's vast hands-on experience, including navigating numerous challenges and failures, uniquely positions him to guide aspiring individuals and businesses. He excels at providing strategic insights and building brands from the ground up, making him an invaluable ally for anyone looking to grow in the tech landscape.",
+      "A true tech polymath and passionate entrepreneur, Harsha has a deep-seated love for transforming ideas into reality. As the force behind H24 Creationz and the author of two organically successful books (500+ copies sold in 7 months), he's built an impressive portfolio: over 6 apps and 2 games on Play Store, 10+ websites, 5+ branding projects, 4+ YouTube channels, 5+ music albums across major platforms, and a self-published podcast. <br> <br/> Harsha's vast hands-on experience, including navigating numerous challenges and failures, uniquely positions him to guide aspiring individuals and businesses. He excels at providing strategic insights and building brands from the ground up, making him an invaluable ally for anyone looking to grow in the tech landscape.",
   },
   {
     image: "/assets/img/trainers/matt.jpg",
