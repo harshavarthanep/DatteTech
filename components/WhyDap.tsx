@@ -32,7 +32,7 @@ const WhyDap = () => {
             viewport={{ once: false, amount: 0.2 }}
             className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-wider text-accent2"
           >
-            WHY DAP
+            WHY DATTETECH
           </motion.h2>
           <motion.p
             variants={fadeIn("up", 0.6)}
@@ -41,12 +41,13 @@ const WhyDap = () => {
             viewport={{ once: false, amount: 0.2 }}
             className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-center lg:text-left leading-relaxed text-accent2"
           >
-            At DAP Fitness, we believe in more than just workouts. We foster a vibrant 
-            community where you'll find support, motivation, and the drive to succeed. 
-            We organize exciting events, challenges, and competitions to keep you engaged 
-            and on track towards your goals. Our state-of-the-art facilities, expert guidance, 
-            and diverse programs cater to all fitness levels, ensuring you always 
-            have the tools and support you need to achieve your fitness aspirations.
+            Choosing a partner for your business growth is a critical decision. At DatteTech, we don't just offer services; we offer a partnership built on trust, transparency, and tangible results.
+            We bring deep industry expertise and a proven track record of success, backed by a team that genuinely cares about your objectives. 
+            We believe in a collaborative approach, working closely with you to understand your challenges and craft tailored solutions that deliver real impact. 
+            Our commitment to innovation means you're always equipped with the latest tools and strategies to stay ahead in a dynamic market.
+            Beyond our technical prowess, what truly sets us apart is our unwavering dedication to your success. 
+            We're not just here to complete tasks; we're here to be your strategic ally, celebrating your wins and navigating challenges together. 
+            With DatteTech, you gain more than a service provider – you gain a trusted extension of your team, committed to helping you reach your "Hokage" status.
           </motion.p>
         </div>
 
@@ -73,16 +74,16 @@ const WhyDap = () => {
           >
             <CardSpotlight className="w-full md:w-96">
               <p className="text-xl font-bold relative z-20 mt-2 text-white">
-                We are driven by a genuine love for fitness and wellness. We
-                believe in building lasting relationships and supporting each
-                other in the Dap community.
+                Innovation: We embrace continuous learning and creativity, constantly seeking new and 
+                effective ways to solve challenges and deliver cutting-edge solutions for our clients. 
+                We stay agile to help you adapt.
               </p>
             </CardSpotlight>
             <CardSpotlight className="w-full md:w-96">
               <p className="text-xl font-bold relative z-20 mt-2 text-white">
-                We continuously seek new ways to enhance our services and
-                facilities, and we prioritize transparency, professionalism, and
-               respect in all we do.
+                Client-Centricity: Your success is our primary mission. We listen intently, understand deeply, and 
+                tailor our approach to meet your specific needs and exceed your expectations. 
+                We're invested in your journey.
               </p>
             </CardSpotlight>
           </motion.p>
