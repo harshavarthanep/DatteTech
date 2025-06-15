@@ -7,41 +7,41 @@ import "swiper/css/pagination";
 
 const testimonialData = [
   {
-    img: "/assets/img/testimonial/gym1.jpg",
+    img: "/assets/img/testimonial/review1.jpg",
     message:
-      "Impressed with knowledgeable & supportive trainers! Fantastic ambiance - clean & motivating. Highly recommend!",
-    name: "Pawon Channd",
+      "DatteTech truly transformed our online presence! Their web development team delivered a site that not only looks incredible but also brings in more leads than ever before. It's like they unlocked a new level of success for us!",
+    name: "Rahul Raj",
   },
   {
-    img: "/assets/img/testimonial/gym2.jpg",
+    img: "/assets/img/testimonial/review2.jpg",
     message:
-      "I have recently joined the DAP fitness for unisex. Great ambiance! Trainers are helpful and supportive, even without PT. Very good experience.",
-    name: "Manjula Manju",
+      "The branding process with DatteTech was a game-changer. They captured our essence perfectly, and our new brand identity has given us incredible confidence in the market. Highly recommend their 'visual jutsu'!",
+    name: "Dhanashree Rajesh",
   },
   {
-    img: "/assets/img/testimonial/gym3.jpg",
+    img: "/assets/img/testimonial/review3.jpg",
     message:
-      "New gym in Sholinganallur, near Elcot/Accenture. Affordable packages with discounts. Friendly and supportive trainers.",
-    name: "Dinesh",
+      "As a startup, we needed comprehensive support, and DatteTech delivered. Their Business Solutions and Talent Growth expertise helped us build a strong foundation and scale effectively. They're true partners!",
+    name: "Vimal Kumar",
   },
   {
-    img: "/assets/img/testimonial/gym1.jpg",
+    img: "/assets/img/testimonial/review4.jpg",
     message:
       "I recently joined this unisex gym, nice experience here, they will teach us from scratch and trainers are good and super supportive persons",
-    name: "Devi ramakrishnaa",
+    name: "Rajasri Gunasekharan ",
   },
-  {
-    img: "/assets/img/testimonial/gym2.jpg",
-    message:
-      "Happy with the packages which are in affordable manner. seems trainers also friendly and supportive.",
-    name: "Mourish",
-  },
-  {
-    img: "/assets/img/testimonial/gym3.jpg",
-    message:
-      "I have recently joined here, the trainers are too friendly and they Guide the beginners very well.",
-    name: "Ritthika Murugan",
-  },
+  // {
+  //   img: "/assets/img/testimonial/gym2.jpg",
+  //   message:
+  //     "Happy with the packages which are in affordable manner. seems trainers also friendly and supportive.",
+  //   name: "Shriya Raj",
+  // },
+  // {
+  //   img: "/assets/img/testimonial/gym3.jpg",
+  //   message:
+  //     "I have recently joined here, the trainers are too friendly and they Guide the beginners very well.",
+  //   name: "Praveen Kishore",
+  // },
   // {
   //   img: "/assets/img/testimonial/lucy.jpg",
   //   message:
