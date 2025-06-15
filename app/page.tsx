@@ -12,7 +12,7 @@ export default function Home() {
       <Hero />
       <WhatWeDo />
       <WhoWeAre />
-      <WhyDap />
+      <WhyDatteTech />
       <Blog />
       <Team />
       <Testimonial />
