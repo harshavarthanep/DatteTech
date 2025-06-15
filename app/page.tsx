@@ -13,7 +13,7 @@ export default function Home() {
       <WhatWeDo />
       <WhoWeAre />
       <WhyDatteTech />
-      <Blog />
+{/*       <Blog /> */}
       <Team />
       <Testimonial />
     </main>
