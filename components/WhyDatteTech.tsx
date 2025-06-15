@@ -41,12 +41,12 @@ const WhyDap = () => {
             viewport={{ once: false, amount: 0.2 }}
             className="max-w-[900px] mx-auto text-base md:text-lg lg:text-xl text-center lg:text-left leading-relaxed text-accent2"
           >
-            Choosing a partner for your business growth is a critical decision. At DatteTech, we don't just offer services; we offer a partnership built on trust, transparency, and tangible results.
+            Choosing a partner for your business growth is a critical decision. At DatteTech, we don't just offer services, we offer a partnership built on trust, transparency, and tangible results.
             <br /><br /> We bring deep industry expertise and a proven track record of success, backed by a team that genuinely cares about your objectives. 
             We believe in a collaborative approach, working closely with you to understand your challenges and craft tailored solutions that deliver real impact. 
             Our commitment to innovation means you're always equipped with the latest tools and strategies to stay ahead in a dynamic market.
             <br /><br /> Beyond our technical prowess, what truly sets us apart is our unwavering dedication to your success. 
-            We're not just here to complete tasks; we're here to be your strategic ally, celebrating your wins and navigating challenges together. 
+            We're not just here to complete tasks, we're here to be your strategic ally, celebrating your wins and navigating challenges together. 
             With DatteTech, you gain more than a service provider – you gain a trusted extension of your team, committed to helping you reach your "Hokage" status.
           </motion.p>
         </div>
