@@ -113,7 +113,7 @@ const Footer = () => {
               <div className="flex items-center">
                 <input
                   type="text"
-                  placeholder="You are a Hokage!"
+                  placeholder="Click Send!"
                   className="h-[40px] md:h-[50px] outline-none px-4 text-primary-300 w-full max-w-[200px] md:max-w-[300px] rounded-l-md"
                 />
                 <a href="https://wa.me/8667701001?text=Hi%20there!%20I'm%20interested%20to%20know%20more%20about%20DatteTech%20">
