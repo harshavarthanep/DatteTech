@@ -16,7 +16,7 @@ import { CardSpotlight } from "./ui/card-spotlight";
 const WhyDap = () => {
   return (
     <section
-      id="whyDap"
+      id="WhyDatteTech"
       className="relative lg:py-24 py-12 overflow-hidden bg-accent3"
     >
       {/* Background Accent */}
