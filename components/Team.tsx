@@ -15,8 +15,8 @@ const trainerData = [
   {
     image: "/assets/img/trainers/matt.jpg",
     name: "Vidhya V",
-    role: "Founder & Head of Talent Growth",
-    description: "Vidhya brings extensive expertise in Human Resources and career guidance to DatteTech. With a proven track record of conducting numerous impactful career guidance sessions in colleges, she understands the nuances of talent development and acquisition. Vidhya is dedicated to helping businesses build strong teams by providing comprehensive HR services, from strategic hiring to fostering a thriving workplace culture. Her insights are crucial in ensuring DatteTech's clients can attract, retain, and develop the right talent to achieve their goals.",
+    role: "Founder & Chief Business Strategist",
+    description: "Vidhya's extensive expertise in Human Resources is now channeled into driving comprehensive business solutions at DatteTech. With a deep understanding of organizational dynamics, she excels in identifying market opportunities and crafting strategies that fuel growth. Vidhya is dedicated to empowering businesses not only to build strong teams but also to optimize operations, enhance client engagement, and unlock new revenue streams. Her insights are crucial in ensuring DatteTech's clients receive tailored solutions that deliver tangible business impact and achieve their strategic objectives.",
   },
 ];
 
