@@ -13,7 +13,7 @@ const trainerData = [
       "A true tech polymath and passionate entrepreneur, Harsha has a deep-seated love for transforming ideas into reality. As the force behind H24 Creationz and the author of two organically successful books (500+ copies sold in 7 months), he's built an impressive portfolio: over 6 apps and 2 games on Play Store, 10+ websites, 5+ branding projects, 4+ YouTube channels, 5+ music albums across major platforms, and a self-published podcast. Harsha's vast hands-on experience, including navigating numerous challenges and failures, uniquely positions him to guide aspiring individuals and businesses. He excels at providing strategic insights and building brands from the ground up, making him an invaluable ally for anyone looking to grow in the tech landscape.",
   },
   {
-    image: "/assets/img/trainers/Vidhya1.jpg",
+    image: "/assets/img/trainers/Vidhya11.jpg",
     name: "Vidhya V",
     role: "Founder & Chief Business Strategist",
     description: "Vidhya's extensive expertise in Human Resources is now channeled into driving comprehensive business solutions at DatteTech. With a deep understanding of organizational dynamics, she excels in identifying market opportunities and crafting strategies that fuel growth. Vidhya is dedicated to empowering businesses not only to build strong teams but also to optimize operations, enhance client engagement, and unlock new revenue streams. Her insights are crucial in ensuring DatteTech's clients receive tailored solutions that deliver tangible business impact and achieve their strategic objectives.",
