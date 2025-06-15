@@ -43,12 +43,12 @@ const Team = () => {
           initial="hidden"
           whileInView={"show"}
           viewport={{ once: false, amount: 0.2 }}
-          className="flex flex-col items-center text-center space-y-4"
+          className="flex flex-row flex-wrap justify-center gap-8 md:gap-12"
         >
           {trainerData.map((trainer, index) => {
             return (
               <div
-                className="flex flex-col items-center text-center space-y-4"
+                className="flex flex-col items-center text-center"
                 key={index}
               >
                 {/* image */}
