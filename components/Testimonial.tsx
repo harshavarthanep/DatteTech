@@ -7,25 +7,25 @@ import "swiper/css/pagination";
 
 const testimonialData = [
   {
-    img: "/assets/img/testimonial/review1.jpg",
+    img: "/assets/img/testimonial/review1.png",
     message:
       "DatteTech truly transformed our online presence! Their web development team delivered a site that not only looks incredible but also brings in more leads than ever before. It's like they unlocked a new level of success for us!",
     name: "Rahul Raj",
   },
   {
-    img: "/assets/img/testimonial/review2.jpg",
+    img: "/assets/img/testimonial/review2.png",
     message:
       "The branding process with DatteTech was a game-changer. They captured our essence perfectly, and our new brand identity has given us incredible confidence in the market. Highly recommend their 'visual jutsu'!",
     name: "Dhanashree Rajesh",
   },
   {
-    img: "/assets/img/testimonial/review3.jpg",
+    img: "/assets/img/testimonial/review3.png",
     message:
       "As a startup, we needed comprehensive support, and DatteTech delivered. Their Business Solutions and Talent Growth expertise helped us build a strong foundation and scale effectively. They're true partners!",
     name: "Vimal Kumar",
   },
   {
-    img: "/assets/img/testimonial/review4.jpg",
+    img: "/assets/img/testimonial/review4.png",
     message:
       "I recently joined this unisex gym, nice experience here, they will teach us from scratch and trainers are good and super supportive persons",
     name: "Rajasri Gunasekharan ",
