@@ -143,9 +143,9 @@ const WhatWeDo = () => {
                   <div className="flex flex-col justify-center items-center gap text-center h-full">
                     <div className="flex flex-col justify-center items-center">
                       <p className="text-2xl font-semibold max-w-[380px) mb-8">{person.title}</p>
-                      <span className="text-xl font-bold text-white">
-                      <CardSpotlight>
-                            <p className="relative z-20 mt-2">{person.content}</p>
+                      <span>
+                      <CardSpotlight className="w-full md:w-96>
+                            <p className="text-xl font-bold relative z-20 mt-2 text-white ">{person.content}</p>
                       </CardSpotlight>
                       </span>
                     </div>
