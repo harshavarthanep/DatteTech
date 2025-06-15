@@ -74,7 +74,7 @@ const testimonialData = [
 const WhatWeDo = () => {
   return (
     
-<section id="WhatWeDo" className="py-12 bg-accent3">
+<section id="whatWeDo" className="py-12 bg-accent3">
     <div className="container mx-auto flex flex-col items-center gap-6 mb-4">
           
         <motion.h2
@@ -144,7 +144,7 @@ const WhatWeDo = () => {
                     <div className="flex flex-col justify-center items-center">
                       <p className="text-2xl font-semibold max-w-[380px) mb-8">{person.title}</p>
                       <span className="text-xl font-bold text-white >
-                      <CardSpotlight className="w-full md:w-96>
+                      <CardSpotlight>
                             <p className="relative z-20 mt-2">{person.content}</p>
                       </CardSpotlight>
                       </span>
