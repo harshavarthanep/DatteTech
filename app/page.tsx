@@ -4,7 +4,7 @@ import Team from "@/components/Team";
 import Testimonial from "@/components/Testimonial";
 import WhatWeDo from "@/components/WhatWeDo";
 import WhoWeAre from "@/components/WhoWeAre";
-import WhyDap from "@/components/WhyDap";
+import WhyDatteTech from "@/components/WhyDatteTech";
 
 export default function Home() {
   return (
