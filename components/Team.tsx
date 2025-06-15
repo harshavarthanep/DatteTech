@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const trainerData = [
   {
-    image: "/assets/img/trainers/Harsha1.jpg",
+    image: "/assets/img/trainers/Harsha11.jpg",
     name: "Harsha Varthan E P",
     role: "Founder & CEO",
     description: 
